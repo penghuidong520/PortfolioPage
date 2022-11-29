@@ -1,0 +1,21 @@
+<div class="inner">
+					<a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
+					<h1><strong>I am Penghui (Payton) Dong</strong>, a software engineer<br />
+					Full of positivity and motivation<br />
+					<!-- Know more about my experience at <a href="./Penghui(Payton)_Dong_Resume.pdf" target="_blank" >My Resume</a>. -->
+					</h1>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2>My name is Payton a software engineer</h2>
+						</header>
+						<p>My passion about coding really comes together with who I am. I enjoy problem solving, and loves to dive deep into how things work and the logics behind. Being able to face challenges in the correct manner also makes me a competitor overtime.</p>
+						<ul class="actions">
+							<!-- <li><a href="#" class="button">Learn More</a></li> -->
+						</ul>
