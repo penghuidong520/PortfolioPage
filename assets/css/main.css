@@ -3314,3 +3314,23 @@ input, select, textarea {
 			}
 
 	}
+
+/* Skills Icons */
+
+.feature-icons-container {
+	display: grid;
+  	grid-template-columns: 33% 33% 33%;
+}
+
+.skill-icons {
+	font-size: 60px;
+	padding: 5px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.skill-name {
+	font-size: 20px;
+}
